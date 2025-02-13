@@ -1,0 +1,40 @@
+.matn{
+    background: linear-gradient(90deg, yellow, orange);
+    border-radius: 20px;
+    width: 100px;
+    margin: 30px 10px;
+}
+.matn-2{
+    background: linear-gradient(60deg, pink, purple);
+    border-radius: 20px;
+    width: 100px;
+    margin: 30px 10px;
+}
+.matn-3{
+    background: linear-gradient(90deg, aqua, blue);
+    border-radius: 20px;
+    width: 100px;
+    margin: 30px 10px;
+}
+.matn-4{
+    background: linear-gradient(40deg, blue, aqua);
+    border-radius: 20px;
+    width: 100px;
+    margin: 30px 10px;
+}
+.matn-5{
+    width: 60px;
+    margin: 0 10px;
+}
+.matn-95{
+    background-color: chartreuse;
+}
+.matn-96{
+    background-color: purple;
+    color: white;
+}
+.matn-6{
+    width: 130px;
+    margin: 30px 10px;
+    border-radius: 20px;
+}
